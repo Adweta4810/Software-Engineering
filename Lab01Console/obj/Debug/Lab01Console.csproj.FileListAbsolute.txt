@@ -1,0 +1,8 @@
+C:\Users\adwet\Source\Repos\Software-Engineering\Lab01Console\bin\Debug\Lab01Console.exe.config
+C:\Users\adwet\Source\Repos\Software-Engineering\Lab01Console\bin\Debug\Lab01Console.exe
+C:\Users\adwet\Source\Repos\Software-Engineering\Lab01Console\bin\Debug\Lab01Console.pdb
+C:\Users\adwet\Source\Repos\Software-Engineering\Lab01Console\obj\Debug\Lab01Console.csproj.AssemblyReference.cache
+C:\Users\adwet\Source\Repos\Software-Engineering\Lab01Console\obj\Debug\Lab01Console.csproj.CoreCompileInputs.cache
+C:\Users\adwet\Source\Repos\Software-Engineering\Lab01Console\obj\Debug\Lab01Console.exe
+C:\Users\adwet\Source\Repos\Software-Engineering\Lab01Console\obj\Debug\Lab01Console.pdb
+C:\Users\adwet\Source\Repos\Software-Engineering\Lab01Console\obj\Debug\Lab01Console.exe.config
